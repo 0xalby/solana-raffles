@@ -1,8 +1,5 @@
 
-![Logo](https://i.ibb.co/8PmGQ5J/daoify-logo.png)
-
-
-## DAOify Raffles
+## Solana Raffles
 
 Solana raffle system with support for custom SPL Tokens
 
@@ -58,7 +55,6 @@ Devnet
 ```
 4ZEPy6oo8oHzbU6bkiY2m8pLb7aNzyzZaMpAZ6CeZQQf
 ```
-
 
 
 ## Authors
