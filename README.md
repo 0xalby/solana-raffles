@@ -9,9 +9,9 @@ Solana raffle system with support for custom SPL Tokens
 
 ## 
  
- - [Official Deployments](https://github.com/dynaris/solana-raffles#official-deployments)
- - [Deploy Your Own Version](https://github.com/dynaris/solana-raffles#deploy-your-own-version)
- - [Docs](https://github.com/dynaris/solana-raffles)
+ - [Official Deployments](https://github.com/albywok/solana-raffles#official-deployments)
+ - [Deploy Your Own Version](https://github.com/albywok/solana-raffles#deploy-your-own-version)
+ - [Docs](https://github.com/albywok/solana-raffles)
 
 
 ## Deploy your own version
@@ -40,7 +40,7 @@ Starting the UI
 
 ### Front End
 
-https://raffles.dynaris.xyz
+https://solana-raffles.vercel.app
 
 ### Contract
 
@@ -55,10 +55,3 @@ Devnet
 ```
 4ZEPy6oo8oHzbU6bkiY2m8pLb7aNzyzZaMpAZ6CeZQQf
 ```
-
-
-## Authors
-
-- [@dynaris](https://www.github.com/dynaris)
-- [@internetbands](https://www.github.com/internetbandz)
-
