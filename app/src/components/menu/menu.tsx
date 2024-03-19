@@ -20,7 +20,7 @@ export const Menu: FC = () => {
   return (
     <div className={styles.container}>
       {/* <img src={"/logo.svg"}/> <i>&nbsp;Raffles</i> */}
-      <Link href='/'><h1>DAOify Raffles</h1></Link>
+      <Link href='/'><h1>Solana Raffles</h1></Link>
    
    <div className={styles.wallet_button}>
      <WalletMultiButton />
