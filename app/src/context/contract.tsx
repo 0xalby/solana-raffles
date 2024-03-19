@@ -18,7 +18,7 @@ export const ContractContext = createContext<WorkSpace | null>(null);
 const preflightCommitment = "processed";
 const commitment = "processed";
 const programID = new PublicKey(idl.metadata.address);
-const connection = new Connection('https://ssc-dao.genesysgo.net/');
+const connection = new Connection('https://mainnet.helius-rpc.com/?api-key=4cfa0f42-6b5c-48db-81f5-794c7d5f60eb');
 
 export const ContractProvider: FC<any> = ({ children }) => {
   const wallet: any = useAnchorWallet();
