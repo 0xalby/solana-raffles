@@ -25,7 +25,7 @@ require("../styles/globals.scss");
 const App: FC<AppProps> = ({ Component, pageProps }) => {
 
   const network = WalletAdapterNetwork.Mainnet;
-  const endpoint = 'https://ssc-dao.genesysgo.net/'
+  const endpoint = 'https://mainnet.helius-rpc.com/?api-key=4cfa0f42-6b5c-48db-81f5-794c7d5f60eb'
   const wallets = useMemo(
     () => [
       new PhantomWalletAdapter(),
