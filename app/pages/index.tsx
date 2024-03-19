@@ -46,8 +46,8 @@ const Home: NextPage = () => {
     <div className={styles.container}>
 
       <Head>
-        <meta property="og:title" content={'DAOify Raffles'} key="ogtitle" />
-        <meta property="og:description" content={'Create & Participate in raffles on Solana, brought to you by DAOify'} key="ogdesc" />
+        <meta property="og:title" content={'Solana Raffles'} key="ogtitle" />
+        <meta property="og:description" content={'Create & Participate in raffles on Solana'} key="ogdesc" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
